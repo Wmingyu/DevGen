@@ -1,4 +1,4 @@
-# Bridging Kernel Drivers and Virtual Device Models with LLM-Powered Automation
+# Automated Generation of Virtual Device Models for Kernel Drivers via Large Language Models
 
 ## Driver Information Collection
 
